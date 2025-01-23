@@ -10,6 +10,10 @@
 
 ###
 
+<p align="left">👨‍💻 Creating bugs since 2016.<br>🚀 I recently moved my portfolio to AWS using HTML, CSS, and JavaScript, integrated a visitor counter with DynamoDB, API Gateway, and Lambda in Python, and followed best practices in IaC and CI/CD pipelines with GitHub Actions.</p>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
