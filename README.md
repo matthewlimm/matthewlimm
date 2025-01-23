@@ -10,10 +10,6 @@
 
 ###
 
-<p align="left">👨‍💻 Creating bugs since 2016.<br>⚒️ I'm currently building a computer vision model to identify coffee brewing methods from photos and provide relevant storage information about those processes.<br>🚀 I recently moved my portfolio to AWS using HTML, CSS, and JavaScript, integrated a visitor counter with DynamoDB, API Gateway, and Lambda in Python, and followed best practices in IaC and CI/CD pipelines with GitHub Actions.</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
